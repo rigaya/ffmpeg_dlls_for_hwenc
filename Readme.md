@@ -6,6 +6,13 @@ QSVEnc/NVENC/VCEEnc‚Ì‰æŽ¿‚â‘¬“x‚Æ‚¢‚Á‚½«”\‚ÌŽÀŒ±‚ð–Ú“I‚Æ‚·‚éƒTƒuƒ‚ƒWƒ…[ƒ‹‚Å‚·
 
 ## XV—š—ð
 
+### 20240822
+  - ffmpeg     7.0    -> 20240822 (9d15fe77e33b757c75a4186fa049857462737713)
+  - dav1d      1.4.1  -> 1.4.3
+  - libvpl     2.11.0 -> 2.12.0
+  - libvpx     1.14.1 (new!)
+  - Add mmt/tlv patch (https://github.com/superfashi/FFmpeg/commit/b5816cfeb3cba7ecd230d18192ac1cb401e22a54)
+
 ### 20240511
   - ffmpeg     6.1    -> 7.0
   - libpng     1.4.0  -> 1.4.3
