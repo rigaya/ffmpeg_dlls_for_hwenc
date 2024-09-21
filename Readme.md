@@ -6,6 +6,9 @@ QSVEnc/NVENC/VCEEnc‚Ì‰æŽ¿‚â‘¬“x‚Æ‚¢‚Á‚½«”\‚ÌŽÀŒ±‚ð–Ú“I‚Æ‚·‚éƒTƒuƒ‚ƒWƒ…[ƒ‹‚Å‚·
 
 ## XV—š—ð
 
+### 20240921
+  - libplacebo‚Ìdll‚ð’Ç‰ÁB(x64‚Ì‚Ý)
+
 ### 20240902
   - mmt/tlv patch‚ð‰ü—Ç
 
