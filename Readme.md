@@ -6,6 +6,10 @@ QSVEnc/NVENC/VCEEnc‚Ì‰æŽ¿‚â‘¬“x‚Æ‚¢‚Á‚½«”\‚ÌŽÀŒ±‚ð–Ú“I‚Æ‚·‚éƒTƒuƒ‚ƒWƒ…[ƒ‹‚Å‚·
 
 ## XV—š—ð
 
+### 20240929
+  - libdovi‚ð’Ç‰ÁB
+  - x86—p‚Ìlibplacebo‚Ìdll‚ð’Ç‰ÁB
+
 ### 20240921
   - libplacebo‚Ìdll‚ð’Ç‰ÁB(x64‚Ì‚Ý)
 
