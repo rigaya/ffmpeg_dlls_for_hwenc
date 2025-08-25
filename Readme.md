@@ -1,23 +1,47 @@
 # ffmpeg_lgpl_dll
 
-QSVEnc/NVENC/VCEEnc‚Ì‰æŽ¿‚â‘¬“x‚Æ‚¢‚Á‚½«”\‚ÌŽÀŒ±‚ð–Ú“I‚Æ‚·‚éƒTƒuƒ‚ƒWƒ…[ƒ‹‚Å‚·B
+QSVEnc/NVENC/VCEEncã®ç”»è³ªã‚„é€Ÿåº¦ã¨ã„ã£ãŸæ€§èƒ½ã®å®Ÿé¨“ã‚’ç›®çš„ã¨ã™ã‚‹ã‚µãƒ–ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã§ã™ã€‚
 
-ƒrƒ‹ƒh•û–@‚É‚Â‚¢‚Ä‚Í[‚±‚¿‚ç](https://github.com/rigaya/build_scripts/tree/master/ffmpeg_dll)B
+ãƒ“ãƒ«ãƒ‰æ–¹æ³•ã¯ä¸‹è¨˜ã‚’å‚ç…§ã€‚
 
-## XV—š—ð
+- [ffmpeg_dll](https://github.com/rigaya/build_scripts/tree/master/ffmpeg_dll)
+- [dovi_hdr10plus](https://github.com/rigaya/build_scripts/tree/master/dovi_hdr10plus)
+
+## æ›´æ–°å±¥æ­´
+
+### 20250825
+  - ffmpeg 7.1+ (20240822) -> 8.0
+  - libpng 1.6.44 -> 1.6.50
+  - expat  2.6.2  -> 2.7.1
+  - fribidi 1.0.11 -> 1.0.16
+  - libogg 1.3.5 -> 1.3.6
+  - libxml2 2.12.6 -> 2.14.5
+  - libvpl 2.13.0 -> 2.15.0
+  - libvpx 1.14.1 -> 1.15.2
+  - dav1d  1.4.3  -> 1.5.1
+  - libxxhash 0.8.2 -> 0.8.3
+  - glslang  15.0.0 -> 15.4.0
+  - dovi_tool 2.1.2 -> 2.3.1
+  - libjpeg-turbo 2.1.0 -> 3.1.1
+  - lcms2 2.16 -> 2.17
+  - zimg 3.0.5 -> 3.0.6
+  - libplacebo 7.349.0 -> 7.351.0
+  - libsvtav1 3.1.0 (new!) x64 only
+  - libvvenc 1.13.1 (new!) x64 only
+  - mmt/tlv patchã‚’å‰Šé™¤
 
 ### 20241102
-  - libhdr10plus‚ð’Ç‰ÁB
+  - libhdr10plusã‚’è¿½åŠ ã€‚
 
 ### 20240929
-  - libdovi‚ð’Ç‰ÁB
-  - x86—p‚Ìlibplacebo‚Ìdll‚ð’Ç‰ÁB
+  - libdoviã‚’è¿½åŠ ã€‚
+  - x86ç”¨ã®libplaceboã®dllã‚’è¿½åŠ ã€‚
 
 ### 20240921
-  - libplacebo‚Ìdll‚ð’Ç‰ÁB(x64‚Ì‚Ý)
+  - libplaceboã®dllã‚’è¿½åŠ ã€‚(x64ã®ã¿)
 
 ### 20240902
-  - mmt/tlv patch‚ð‰ü—Ç
+  - mmt/tlv patchã‚’æ”¹è‰¯
 
 ### 20240822
   - ffmpeg     7.0    -> 20240822 (9d15fe77e33b757c75a4186fa049857462737713)
@@ -91,4 +115,4 @@ QSVEnc/NVENC/VCEEnc‚Ì‰æŽ¿‚â‘¬“x‚Æ‚¢‚Á‚½«”\‚ÌŽÀŒ±‚ð–Ú“I‚Æ‚·‚éƒTƒuƒ‚ƒWƒ…[ƒ‹‚Å‚·
 
 ### 20180520
 
-- ‰”Å
+- åˆç‰ˆ
