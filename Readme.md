@@ -9,6 +9,30 @@ QSVEnc/NVENC/VCEEncの画質や速度といった性能の実験を目的とす�
 
 ## 更新履歴
 
+### 20261124
+
+  - ffmpeg 9.0.1 → 9.1
+  - zlib 1.3.2 → 1.4
+  - libpng 1.6.58 → 1.6.59
+  - xz 5.8.3 → 5.8.4
+  - expat 2.8.3 → 2.10.0
+  - fribidi 1.0.16 → 1.0.18
+  - harfbuzz 14.3.0 → 15.2.0
+  - libunibreak 7.0 → 8.0.1
+  - libxml2 2.15.3 → 2.15.4
+  - libvpx 1.16.0 → 1.17.0
+  - dav1d 1.5.4 → 1.5.5
+  - xxHash 0.8.3 → 0.8.4
+  - glslang 16.5.0 → 16.6.0
+  - shaderc 2026.3 → 2026.4
+  - dovi_tool 2.3.3 → 2.3.4
+  - libjpeg-turbo 3.2.0 → 3.2.1
+  - lcms2 2.19.1 → 2.20
+  - Vulkan-Loader 1.4.359 → 1.4.369
+  - libplacebo 7.360.1 → 7.387.0
+  - SVT-AV1 4.2.0 → 4.3.1
+  - libvmaf 3.2.0 → 3.2.1
+
 ### 20260812
   - ffmpeg 8.0 -> 9.0.1
   - libvmaf 3.0.0 -> 3.2.0
